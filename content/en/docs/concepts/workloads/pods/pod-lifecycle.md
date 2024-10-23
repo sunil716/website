@@ -24,7 +24,7 @@ plane marks the Pods for removal after a timeout period.
 
 ## Pod lifetime
 
-Whilst a Pod is running, the kubelet is able to restart containers to handle some
+Whilst a Pod is running123, the kubelet is able to restart containers to handle some
 kind of faults. Within a Pod, Kubernetes tracks different container
 [states](#container-states) and determines what action to take to make the Pod
 healthy again.
